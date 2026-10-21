@@ -1,0 +1,22 @@
+Student_ID,Name,Department,Data Structures,Operating Systems,Computer Networks,Machine Learning,Attendance,Total_Marks,Average_Marks,Grade,Result
+2401,Imran Bhat,IT,86,80,67,78,64,311,77.75,B,Pass
+2402,Neha Verma,IT,49,94,73,59,89,275,68.75,C,Pass
+2403,Ritika Mir,IT,85,57,81,57,87,280,70.0,B,Pass
+2404,Owais Qureshi,IT,39,54,81,81,63,255,63.75,C,Fail
+2405,Bilal Mattoo,ECE,41,67,45,57,92,210,52.5,D,Pass
+2406,Mehak Bhat,IT,32,75,65,57,67,229,57.25,D,Fail
+2407,Danish Iyer,ECE,93,49,87,87,67,316,79.0,B,Pass
+2408,Faisal Thakur,ECE,47,69,86,90,77,292,73.0,B,Pass
+2409,Vikram Joshi,CSE,51,69,82,58,74,260,65.0,C,Pass
+2410,Zoya Verma,IT,82,89,96,97,71,364,91.0,A+,Pass
+2411,Adil Verma,IT,63,78,63,53,79,257,64.25,C,Pass
+2412,Karan Malik,CSE,51,37,57,76,67,221,55.25,D,Fail
+2413,Aaliya Thakur,IT,46,79,82,67,85,274,68.5,C,Pass
+2414,Yawar Malik,IT,65,80,54,81,82,280,70.0,B,Pass
+2415,Hiba Mattoo,IT,62,77,75,62,83,276,69.0,C,Pass
+2416,Shruti Qureshi,CSE,66,37,51,94,90,248,62.0,C,Fail
+2417,Neha Dar,CSE,73,73,57,66,78,269,67.25,C,Pass
+2418,Bilal Malik,IT,54,61,89,74,43,278,69.5,C,Pass
+2419,Ritika Singh,ECE,56,34,52,64,90,206,51.5,D,Fail
+2420,Yawar Joshi,ECE,85,63,69,51,49,268,67.0,C,Pass
+2421,Priya Reddy,CSE,64,85,76,51,78,276,69.0,C,Pass
